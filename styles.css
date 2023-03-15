@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 header{
+	text-align:center;
 	background-color:  #011e29;
 	color:white;
 	font-size:35px;
 	padding:20px
-	text-align:center;
 }
 .container{
 	background-color:whitesmoke;
@@ -18,8 +18,9 @@ header{
 	text-align:center;
 }
 .news{
+	text-align:center;
+	picture-align:center;
 	background-color: 
-	text-align:right;
 }
 .latestnews{
 	text-align:top;
